@@ -195,7 +195,10 @@
           <mxGeometry x="-280" y="80" width="600" height="200" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-154" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user_accounts.svg;" vertex="1" parent="1">
-          <mxGeometry x="-39.25" y="120" width="50" height="48.5" as="geometry" />
+          <mxGeometry x="-5" y="155.75" width="50" height="48.5" as="geometry" />
+        </mxCell>
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-155" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="398" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
