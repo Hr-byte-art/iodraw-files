@@ -86,6 +86,9 @@
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-70" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=sa" vertex="1" parent="1">
           <mxGeometry x="563" y="254.28" width="76.5" height="73.44" as="geometry" />
         </mxCell>
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
