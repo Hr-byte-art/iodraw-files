@@ -123,7 +123,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-123" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="-426" y="-279.83000000000004" width="67.25" height="89.67" as="geometry" />
+          <mxGeometry x="-352" y="-1000" width="71.25" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-124" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.file;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-830" width="68.5" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
