@@ -41,11 +41,11 @@
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="7_ZQI-Lrr-3d7mr_bj8u-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="733" as="sourcePoint" />
-            <mxPoint x="650.0799999999999" y="633" as="targetPoint" />
+            <mxPoint x="414" y="735" as="sourcePoint" />
+            <mxPoint x="650" y="632" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="414" y="673" />
-              <mxPoint x="650" y="673" />
+              <mxPoint x="414" y="675" />
+              <mxPoint x="650" y="675" />
             </Array>
           </mxGeometry>
         </mxCell>
