@@ -53,11 +53,21 @@
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-26" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;MySQL 数据库&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="10" y="70" width="200" height="210" as="geometry" />
         </mxCell>
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-27" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;外部服务-天眼查&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="760" y="70" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-28" target="7_ZQI-Lrr-3d7mr_bj8u-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="360" />
+              <mxPoint x="260" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-28" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;AI 模型服务&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="510" y="70" width="200" height="210" as="geometry" />
