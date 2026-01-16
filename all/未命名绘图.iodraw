@@ -185,10 +185,10 @@
           <mxGeometry x="150" y="-141.72000000000008" width="76.5" height="73.44" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-144" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="-243.75" y="-420.24" width="41" height="50" as="geometry" />
+          <mxGeometry x="-243.75" y="-440" width="57.2" height="69.76" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-146" value="行情前置机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-254.75" y="-380" width="80" height="30" as="geometry" />
+          <mxGeometry x="-254.75" y="-353.48" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-147" value="LLM Model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-20" y="-467" width="80" height="30" as="geometry" />
