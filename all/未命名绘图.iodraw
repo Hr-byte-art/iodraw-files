@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-126" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-243.75" y="-960" width="372.25" height="200" as="geometry" />
+          <mxGeometry x="-243.75" y="-960" width="323.75" height="200" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-102" target="7_ZQI-Lrr-3d7mr_bj8u-71">
           <mxGeometry relative="1" as="geometry" />
@@ -133,6 +133,9 @@
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-125" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="510.0000000000001" y="-730" width="107.14" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-127" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-185" y="-682" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
