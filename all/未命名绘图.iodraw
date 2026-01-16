@@ -53,7 +53,7 @@
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-26" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;MySQL 数据库&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="10" y="70" width="200" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="430" as="targetPoint" />
             <mxPoint x="670" y="280" as="sourcePoint" />
