@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-102" value="服务层&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-910" width="720" height="420" as="geometry" />
+          <mxGeometry x="-910" width="720" height="460" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-74" target="7_ZQI-Lrr-3d7mr_bj8u-102">
           <mxGeometry relative="1" as="geometry">
@@ -114,15 +114,6 @@
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-80" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;缓存层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="98.5" y="-420" width="183" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.607;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-71" target="7_ZQI-Lrr-3d7mr_bj8u-102">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="385.24" as="sourcePoint" />
-            <mxPoint x="394.84000000000015" y="854.76" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="414" y="637" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
