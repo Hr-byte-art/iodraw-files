@@ -11,7 +11,7 @@
           <mxGeometry x="280" y="250" width="42" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/vista_terminal.svg;" vertex="1" parent="1">
-          <mxGeometry x="370" y="500" width="32.5" height="50" as="geometry" />
+          <mxGeometry x="350" y="275" width="61.75" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
