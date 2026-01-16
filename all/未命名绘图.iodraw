@@ -105,7 +105,7 @@
           <mxGeometry x="-242.5" y="-350" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-79" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.file;" vertex="1" parent="1">
-          <mxGeometry x="-180.5" y="-320" width="89" height="110" as="geometry" />
+          <mxGeometry x="-181.5" y="-299.84" width="68.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-80" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;缓存层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="128.5" y="-400" width="183" height="30" as="geometry" />
