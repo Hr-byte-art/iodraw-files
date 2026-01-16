@@ -5,13 +5,14 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-102" value="服务层&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-910" width="720" height="330" as="geometry" />
+          <mxGeometry x="-900" y="10" width="720" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-74" target="7_ZQI-Lrr-3d7mr_bj8u-102">
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="7_ZQI-Lrr-3d7mr_bj8u-102">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-280" y="-90" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-290" y="145" />
-              <mxPoint x="-407" y="145" />
+              <mxPoint x="-280" y="155" />
+              <mxPoint x="-397" y="155" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -45,10 +46,10 @@
           <mxGeometry x="-215" y="964" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;空港兴城&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;服务器&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="-853" y="140" width="180" height="180" as="geometry" />
+          <mxGeometry x="-843" y="150" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="-794" y="170" width="72" height="90" as="geometry" />
+          <mxGeometry x="-784" y="180" width="72" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-16" target="7_ZQI-Lrr-3d7mr_bj8u-6">
           <mxGeometry relative="1" as="geometry" />
@@ -59,10 +60,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;xxl-job&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;调度中心&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="-463" y="140" width="180" height="180" as="geometry" />
+          <mxGeometry x="-453" y="150" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-17" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="-403" y="160" width="72" height="90" as="geometry" />
+          <mxGeometry x="-393" y="170" width="72" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-26" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;MySQL 数据库&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="-535.25" y="-370" width="200" height="210" as="geometry" />
@@ -114,6 +115,9 @@
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-80" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;缓存层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="98.5" y="-420" width="183" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-110" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="20" width="732" height="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
