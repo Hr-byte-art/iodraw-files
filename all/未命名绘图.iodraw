@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-1" target="7_ZQI-Lrr-3d7mr_bj8u-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-1" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;客户端&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="310" y="730" width="290" height="140" as="geometry" />
         </mxCell>
@@ -35,6 +38,9 @@
           <mxGeometry x="0.0417" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.572;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-1" target="7_ZQI-Lrr-3d7mr_bj8u-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
