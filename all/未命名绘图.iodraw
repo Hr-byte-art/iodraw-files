@@ -53,13 +53,14 @@
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-26" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;MySQL 数据库&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="10" y="70" width="200" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-27">
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="70" y="420" as="targetPoint" />
+            <mxPoint x="70" y="430" as="targetPoint" />
+            <mxPoint x="670" y="280" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="670" y="350" />
-              <mxPoint x="71" y="350" />
-              <mxPoint x="71" y="420" />
+              <mxPoint x="670" y="360" />
+              <mxPoint x="71" y="360" />
+              <mxPoint x="71" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -81,7 +82,7 @@
           <mxGeometry x="70" y="110" width="67.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-33" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="640" y="118.04" width="77" height="73.92" as="geometry" />
+          <mxGeometry x="630" y="116.48" width="87" height="83.52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
