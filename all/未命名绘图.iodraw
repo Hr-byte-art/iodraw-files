@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-74" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;存储层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-5.75" y="-420" width="520" height="330" as="geometry" />
+          <mxGeometry x="-550" y="-430" width="520" height="330" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=default;startArrow=classic;startFill=1;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-71" target="7_ZQI-Lrr-3d7mr_bj8u-26">
           <mxGeometry relative="1" as="geometry" />
@@ -72,7 +72,7 @@
           <mxGeometry x="607.5" y="514" width="72" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-26" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;MySQL 数据库&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="9" y="-360" width="200" height="210" as="geometry" />
+          <mxGeometry x="-535.25" y="-370" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-29" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Redis 缓存&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="646.75" y="-420" width="230" height="330" as="geometry" />
@@ -81,7 +81,7 @@
           <mxGeometry x="713.4300000000001" y="-310" width="107.14" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-31" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;" vertex="1" parent="1">
-          <mxGeometry x="69" y="-320" width="67.5" height="90" as="geometry" />
+          <mxGeometry x="-475.25" y="-330" width="67.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-59" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="103" y="161" width="136" height="160" as="geometry" />
@@ -119,10 +119,10 @@
           <mxGeometry x="367.5" y="100" width="113" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-77" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;文件存储&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="271.75" y="-360" width="200" height="210" as="geometry" />
+          <mxGeometry x="-272.5" y="-370" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-79" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.file;" vertex="1" parent="1">
-          <mxGeometry x="333.75" y="-330" width="89" height="110" as="geometry" />
+          <mxGeometry x="-210.5" y="-340" width="89" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-80" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;缓存层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="670.75" y="-410" width="183" height="30" as="geometry" />
