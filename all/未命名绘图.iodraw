@@ -84,7 +84,7 @@
           <mxGeometry x="563" y="255" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-68" value="" style="aspect=fixed;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="600" y="-83.52" width="87" height="83.52" as="geometry" />
+          <mxGeometry x="228.5" y="248.48000000000002" width="87" height="83.52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
