@@ -229,7 +229,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-138" target="7_ZQI-Lrr-3d7mr_bj8u-143">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="-100" />
+              <mxPoint x="115" y="-100" />
+              <mxPoint x="115" y="-95" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
