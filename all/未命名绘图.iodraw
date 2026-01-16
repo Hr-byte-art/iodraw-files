@@ -68,7 +68,7 @@
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-60" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="1">
           <mxGeometry x="59.5" y="253" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-61" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-61" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;外部服务-天眼查&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="201.5" y="211" width="136" height="160" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-63" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
