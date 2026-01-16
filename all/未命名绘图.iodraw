@@ -7,6 +7,11 @@
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-102" target="7_ZQI-Lrr-3d7mr_bj8u-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-119" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_ZQI-Lrr-3d7mr_bj8u-116">
+          <mxGeometry x="-0.0043" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-102" value="&lt;div&gt;服务层&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-700" y="140" width="550" height="260" as="geometry" />
         </mxCell>
@@ -118,7 +123,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-118" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_ZQI-Lrr-3d7mr_bj8u-117">
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-118" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_ZQI-Lrr-3d7mr_bj8u-117">
           <mxGeometry x="-0.003" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
