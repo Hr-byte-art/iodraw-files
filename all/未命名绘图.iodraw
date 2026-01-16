@@ -208,11 +208,13 @@
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-137" target="7_ZQI-Lrr-3d7mr_bj8u-141">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-160" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.51;exitY=0.921;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-138">
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-160" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.51;exitY=0.921;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-138" target="7_ZQI-Lrr-3d7mr_bj8u-143">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="960" y="-240" as="sourcePoint" />
             <mxPoint x="1060" y="-240" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="190" y="-243" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
