@@ -73,11 +73,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-43" value="&lt;div style=&quot;background-color: rgb(33, 29, 37); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space-collapse: preserve;&quot;&gt;&lt;font color=&quot;#330000&quot;&gt;HTTP/REST&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_ZQI-Lrr-3d7mr_bj8u-39">
-          <mxGeometry x="-0.8876" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-27" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;外部服务-天眼查&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="520" y="70" width="200" height="210" as="geometry" />
         </mxCell>
