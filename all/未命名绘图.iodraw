@@ -7,27 +7,6 @@
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-74" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;持久层&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="-550" y="-430" width="520" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=default;startArrow=classic;startFill=1;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-71" target="7_ZQI-Lrr-3d7mr_bj8u-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-94" value="TCP/JDBC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_ZQI-Lrr-3d7mr_bj8u-93">
-          <mxGeometry x="0.0248" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;startArrow=classic;startFill=1;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-71" target="7_ZQI-Lrr-3d7mr_bj8u-77">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="-40" />
-              <mxPoint x="372" y="-40" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-96" value="HTTP/REST" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_ZQI-Lrr-3d7mr_bj8u-95">
-          <mxGeometry x="0.0322" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="74.5" y="70" width="732" height="330" as="geometry" />
         </mxCell>
