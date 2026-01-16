@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-74" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;存储层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="-174.75" y="-430" width="732" height="330" as="geometry" />
+          <mxGeometry x="-174.75" y="-430" width="584.75" height="330" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="74.5" y="120" width="732" height="330" as="geometry" />
@@ -90,10 +90,10 @@
           <mxGeometry x="367.5" y="150" width="113" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-77" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;文件存储&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="247.75" y="-370" width="200" height="210" as="geometry" />
+          <mxGeometry x="167.5" y="-370" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-79" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.file;" vertex="1" parent="1">
-          <mxGeometry x="309.75" y="-340" width="89" height="110" as="geometry" />
+          <mxGeometry x="229.5" y="-340" width="89" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-80" value="缓存层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="722.75" y="-350" width="183" height="30" as="geometry" />
