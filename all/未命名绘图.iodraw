@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1SoHAxoJtFl7ryhViAVu">
-    <mxGraphModel dx="2757" dy="2235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1759" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,11 +12,6 @@
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-94" value="HTTP/JDBC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_ZQI-Lrr-3d7mr_bj8u-93">
           <mxGeometry x="0.0248" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-98" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_ZQI-Lrr-3d7mr_bj8u-93">
-          <mxGeometry x="-0.0372" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -98,7 +93,7 @@
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-65" target="7_ZQI-Lrr-3d7mr_bj8u-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-97" value="TCP/RESP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_ZQI-Lrr-3d7mr_bj8u-84">
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-97" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_ZQI-Lrr-3d7mr_bj8u-84">
           <mxGeometry x="0.6685" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
