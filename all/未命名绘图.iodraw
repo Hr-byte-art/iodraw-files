@@ -19,6 +19,9 @@
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-6" value="&lt;span style=&quot;font-size: 21px;&quot;&gt;空港兴城&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;服务器&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="240" y="460" width="290" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="357" y="470" width="56" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
