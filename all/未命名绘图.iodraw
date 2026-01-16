@@ -12,6 +12,11 @@
             <mxPoint x="300" y="-80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-92" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_ZQI-Lrr-3d7mr_bj8u-83">
+          <mxGeometry x="-0.001" y="2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="74.5" y="70" width="732" height="330" as="geometry" />
         </mxCell>
@@ -108,6 +113,11 @@
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.468;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-6" target="7_ZQI-Lrr-3d7mr_bj8u-71">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-91" value="HTTP/REST" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_ZQI-Lrr-3d7mr_bj8u-89">
+          <mxGeometry x="0.0074" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
