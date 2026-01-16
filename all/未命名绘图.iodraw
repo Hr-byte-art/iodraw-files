@@ -15,7 +15,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-71" target="7_ZQI-Lrr-3d7mr_bj8u-77">
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-71" target="7_ZQI-Lrr-3d7mr_bj8u-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-96" value="HTTP/REST" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_ZQI-Lrr-3d7mr_bj8u-95">
@@ -26,7 +26,7 @@
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="74.5" y="70" width="732" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-1" target="7_ZQI-Lrr-3d7mr_bj8u-6">
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeWidth=2;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-1" target="7_ZQI-Lrr-3d7mr_bj8u-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-57" value="HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_ZQI-Lrr-3d7mr_bj8u-55">
@@ -52,7 +52,7 @@
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
           <mxGeometry x="216.5" y="524" width="72" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-16" target="7_ZQI-Lrr-3d7mr_bj8u-6">
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-16" target="7_ZQI-Lrr-3d7mr_bj8u-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-51" value="任务调度" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_ZQI-Lrr-3d7mr_bj8u-50">
@@ -90,7 +90,7 @@
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-63" value="行情服务" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="440.5" y="162" width="136" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-65" target="7_ZQI-Lrr-3d7mr_bj8u-29">
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-65" target="7_ZQI-Lrr-3d7mr_bj8u-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-100" value="TCP/RESP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_ZQI-Lrr-3d7mr_bj8u-84">
@@ -122,7 +122,7 @@
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-80" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;缓存层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="670.75" y="-410" width="183" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.468;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-6" target="7_ZQI-Lrr-3d7mr_bj8u-71">
+        <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.468;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="7_ZQI-Lrr-3d7mr_bj8u-6" target="7_ZQI-Lrr-3d7mr_bj8u-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7_ZQI-Lrr-3d7mr_bj8u-91" value="HTTP/REST" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_ZQI-Lrr-3d7mr_bj8u-89">
